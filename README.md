@@ -1,3 +1,4 @@
+![Screenshot 2024-12-14 132232](https://github.com/user-attachments/assets/81d1cb56-18af-4a94-a5e9-a1a3760988bd)
 # PySpark-Modelling-with-Tiki-Vietnam
 
 In every economy, e-commerce is a rapidly growing sector, with numerous factors influencing demand and sales quantity. This project deals with sales quantity in one of our South East Asian neighboring countries, Vietnam.
